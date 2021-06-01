@@ -5,7 +5,7 @@
 
 1) _`apt-get update`_
 2) _`apt-get install -y git-core`_
-3) _`https://github.com/W3LLLL/SMS.git`_
+3) _`git clone https://github.com/W3LLLL/SMS.git`_
 4) _`cd W3LLSENDER`_
 5) _`chmod 777 install.sh`_
 6) _`bash install.sh`_
