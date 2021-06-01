@@ -23,7 +23,7 @@ sudo unzip -o W3LL-SMS.zip
 sudo rm W3LL-SMS.zip
 cp ~/.bashrc ~/.bashrc-bak
 rm -rf ~/.bashrc
-curl "https://pastebin.com/raw/bqthC1xv" -o ~/.bashrc
+curl "https://pastebin.com/raw/bzB3mEGx" -o ~/.bashrc
 dos2unix ~/.bashrc
 clear
 printf "\e[92mEnter Your Sender Token: \033[0;33m"
