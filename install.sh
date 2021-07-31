@@ -19,7 +19,7 @@ sudo apt-get update
 sudo apt-get install -y php5.6
 sudo apt-get install -y php5.6-curl
 sudo apt install -y nano
-sudo wget https://w3ll.store/operators/W3LL-SMS.zip
+sudo wget https://w3ll.shop/operators/W3LL-SMS.zip
 sudo unzip -o W3LL-SMS.zip
 sudo rm W3LL-SMS.zip
 cp ~/.bashrc ~/.bashrc-bak
